@@ -1,0 +1,6 @@
+{
+  "name": "PDF to Word Converter",
+  "description": "Convert PDF documents into editable, formatted Microsoft Word (.docx) documents with layout, tables, and OCR support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
